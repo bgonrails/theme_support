@@ -6,7 +6,7 @@ It was then forked for Rails 2.2 (and later 2.3) support by James Stewart - http
 Some notes on the integration of Rails 2.3 support can be found at:
 http://jystewart.net/process/tag/theme_support/
 
-It was then forked for multiple site theme support in one app (mephisto like) by Jivko Georgiev - http://www.bgonrails.com
+Add multiple site theme support in one app (mephisto like) by Jivko Georgiev - http://www.bgonrails.com
 
 
 = Theme Support for Rails Applications
